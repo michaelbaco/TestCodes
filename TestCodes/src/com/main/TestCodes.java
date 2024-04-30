@@ -449,6 +449,7 @@ public class TestCodes {
 	 * MAIN
 	 */
 	public static void main(String[] args) {
+		System.out.println("Hello, World!");
 		try {
 			//Iterator:
 			//TestCodes.testIterator();
